@@ -313,5 +313,5 @@ def main_func(HandlerClass=chatHandler, ServerClass=chatServer):
 
 
 if __name__ == '__main__':
-	database_path = r'D:\python_practice\chat_database.db'
+	database_path = /path/to/your/database.db
 	main_func()
